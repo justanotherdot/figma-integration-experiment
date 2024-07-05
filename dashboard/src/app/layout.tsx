@@ -19,7 +19,7 @@ export default function RootLayout({
       <head>
         <meta property="og:title" content="Example Video Title" />
         <meta property="og:description" content="Description of the example video" />
-        <meta property="og:type" content="video.other" />
+        <meta property="og:type" content="video/mp4" />
         <meta property="og:url" content="https://figma-integration-experiment-cjo.vercel.app" />
         <meta property="og:logo" content="https://figma-integration-experiment-hcjo.vercel.app/thumbnail.jpg" />
         <meta property="og:video" content="https://figma-integration-experiment-cjo.vercel.app/embed" />
