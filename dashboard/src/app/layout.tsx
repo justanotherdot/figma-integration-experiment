@@ -17,17 +17,14 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta property="og:title" content="Example Video Title" />
+        <meta property="og:title" content="Example video title" />
         <meta property="og:description" content="Description of the example video" />
-
-        <meta property="og:url" content="https://figma-integration-experiment-cjo.vercel.app/video.mp4" />
-        <meta property="og:type" content="video" />
-        <meta property="og:video" content="https://figma-integration-experiment-cjo.vercel.app/video.mp4" />
-        <meta property="og:video:secure_url" content="https://figma-integration-experiment-cjo.vercel.app/video.mp4" />
-        <meta property="og:video:type" content="video/mp4" />
-        <meta property="og:video:width" content="640" />
-        <meta property="og:video:height" content="360" />
+        <meta property="og:type" content="video.episode" />
         <meta property="og:image" content="https://figma-integration-experiment-hcjo.vercel.app/thumbnail.jpg" />
+        <meta property="og:video" content="https://figma-integration-experiment-cjo.vercel.app/video.mp4" />
+        <meta property="og:video:width" content="350" />
+        <meta property="og:video:height" content="200" />
+        <meta property="og:url" content="https://figma-integration-experiment-cjo.vercel.app/" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
