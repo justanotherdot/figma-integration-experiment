@@ -20,8 +20,8 @@ export default function RootLayout({
         <meta property="og:title" content="Example Video Title" />
         <meta property="og:description" content="Description of the example video" />
         <meta property="og:type" content="video.other" />
-        <meta property="og:video:url" content="https://www.youtube.com/embed/wl61j2agkCQ" />
-        <meta property="og:video:secure_url" content="https://www.youtube.com/embed/wl61j2agkCQ" />
+        <meta property="og:video:url" content="https://figma-integration-experiment-cjo.vercel.app/embed" />
+        <meta property="og:video:secure_url" content="https://figma-integration-experiment-cjo.vercel.app/embed" />
         <meta property="og:video:type" content="text/html" />
         <meta property="og:video:width" content="640" />
         <meta property="og:video:height" content="360" />
@@ -31,7 +31,7 @@ export default function RootLayout({
         <meta property="twitter:title" content="Example Video Title" />
         <meta property="twitter:description" content="Description of the example video" />
         <meta property="twitter:image" content="https://figma-integration-experiment-hcjo.vercel.app/thumbnail.jpg" />
-        <meta property="twitter:player" content="https://www.youtube.com/embed/wl61j2agkCQ" />
+        <meta property="twitter:player" content="https://figma-integration-experiment-cjo.vercel.app/embed" />
         <meta property="twitter:player:width" content="640" />
         <meta property="twitter:player:height" content="360" />
       </head>

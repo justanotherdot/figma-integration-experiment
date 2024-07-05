@@ -31,6 +31,7 @@ export default function Home() {
       <video controls width="250">
         <source src="/video.mp4" type="video/mp4" />
       </video>
+      <iframe width="640" height="360" src="https://figma-integration-experiment-hcjo.vercel.app/video.mp4" allow="autoplay; encrypted-media" ></iframe>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
