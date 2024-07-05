@@ -25,6 +25,7 @@ export default function RootLayout({
         <meta property="og:video:type" content="video/mp4" />
         <meta property="og:video:width" content="640" />
         <meta property="og:video:height" content="360" />
+        <meta property="og:image" content="https://figma-integration-experiment-hcjo.vercel.app/thumbnail.jpg" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
