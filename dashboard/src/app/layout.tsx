@@ -31,7 +31,7 @@ export default function RootLayout({
         <meta property="twitter:title" content="Example Video Title" />
         <meta property="twitter:description" content="Description of the example video" />
         <meta property="twitter:image" content="https://figma-integration-experiment-hcjo.vercel.app/thumbnail.jpg" />
-        <meta property="twitter:player" content="https://figma-integration-experiment-hcjo.vercel.app/embed/video.mp4" />
+        <meta property="twitter:player" content="https://www.youtube.com/embed/wl61j2agkCQ" />
         <meta property="twitter:player:width" content="640" />
         <meta property="twitter:player:height" content="360" />
       </head>
